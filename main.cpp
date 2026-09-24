@@ -1,3 +1,4 @@
+// Author: Zahar Tiko, group PI-53. Made on second computer.
 // Lab 1. Variant 59. Student: Zahar Tiko, group PI-53.
 // Lab 1. Variant 59. Approximate roots (sqrtHeron, cubeRoot).
 #include <iostream>
