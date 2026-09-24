@@ -38,7 +38,7 @@ int main() {
     double x;
     do {
 	cout << "Welcome to the approximate roots calculator!\n";
-        cout << "\n--- Program of calculations. Variant 59 ---\n";
+        cout << "\n=== Variant 59: approximate roots ===\n";
         cout << "1. Square root (Heron's method)\n";
         cout << "2. Cube root\n";
         cout << "0. Exit\n";
